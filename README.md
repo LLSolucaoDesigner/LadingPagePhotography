@@ -1,2 +1,2 @@
 # landingpage
-Landing Page de Fotos
+Landing Page Fotógrafo Profissional
