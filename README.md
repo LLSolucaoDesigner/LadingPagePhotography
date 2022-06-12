@@ -1,4 +1,4 @@
 # landingpage
 Landing Page Fotógrafo Profissional
 
-Foi ultilizado Bootstrap e HTML5
+Foi ultilizado Bootstrap, HTML5 e PHP
